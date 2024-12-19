@@ -1,5 +1,6 @@
 # JokeCollectionWebApplication
 How to run:
+
 Install Microsoft Visual Studio 2022;
 
 Login MySQL with user ID root, create database dblibrary; Execute dblibrary.sql in MySQL Database;
