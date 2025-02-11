@@ -1,4 +1,4 @@
-# JokeCollectionWebApplication
+# PasswordCollectionWebApplication
 How to run:
 
 Install Microsoft Visual Studio 2022;
